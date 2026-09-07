@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "songs": [
+      {
+        "name": "Let's Meet Now",
+        "lyric": "Leessang - 지금 만나",
+        "src": "http://10.0.2.2:8080/songs/LeeSSang_Let_s_Meet_Now.mp3",
+        "length": "3:52"
+      },
+      {
+        "name": "Fashion",
+        "lyric": "Leessang - 패션",
+        "src": "http://10.0.2.2:8080/songs/LeeSSang_Fashion.mp3",
+        "length": "3:41"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "songs": [
+      {
+        "name": "Kiss Goodbye",
+        "lyric": "周杰伦 - 分手前的低咒",
+        "src": "http://10.0.2.2:8080/songs/JayChou_Kiss_Goodbye.mp3",
+        "length": "4:05"
+      },
+      {
+        "name": "Cowboy on the Run",
+        "lyric": "周杰伦 - 牛仔很忙",
+        "src": "http://10.0.2.2:8080/songs/JayChou_Cowboy_on_the_Run.mp3",
+        "length": "3:58"
+      }
+    ]
+  }
+]
