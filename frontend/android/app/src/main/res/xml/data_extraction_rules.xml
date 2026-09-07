@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  No app-specific data currently needs to be excluded from cloud backup or
+  device-to-device transfer; the only persisted state is the Room favorites
+  database.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+    </cloud-backup>
+</data-extraction-rules>

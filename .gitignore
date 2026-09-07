@@ -1,5 +1,28 @@
-.gradle
-/build
-.idea
+# IDE
+.idea/
 *.iml
+.vscode/
+
+# Gradle
+.gradle/
+**/.gradle/
+build/
+**/build/
+
+# Android
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
